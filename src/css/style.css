@@ -1,0 +1,17 @@
+.container {
+  display: flex;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.box {
+  padding: 15px;
+  background-color: rgb(11, 83, 71);
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+
+.theme {
+  background-color: rgb(243, 70, 39);
+}
